@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/MIT-React-Build-A-Formik-Form/static/js/main.f2891358.chunk.js",
+    "main.js.map": "/MIT-React-Build-A-Formik-Form/static/js/main.f2891358.chunk.js.map",
+    "runtime-main.js": "/MIT-React-Build-A-Formik-Form/static/js/runtime-main.643697e9.js",
+    "runtime-main.js.map": "/MIT-React-Build-A-Formik-Form/static/js/runtime-main.643697e9.js.map",
+    "static/js/2.6324c698.chunk.js": "/MIT-React-Build-A-Formik-Form/static/js/2.6324c698.chunk.js",
+    "static/js/2.6324c698.chunk.js.map": "/MIT-React-Build-A-Formik-Form/static/js/2.6324c698.chunk.js.map",
+    "index.html": "/MIT-React-Build-A-Formik-Form/index.html",
+    "static/js/2.6324c698.chunk.js.LICENSE.txt": "/MIT-React-Build-A-Formik-Form/static/js/2.6324c698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.643697e9.js",
+    "static/js/2.6324c698.chunk.js",
+    "static/js/main.f2891358.chunk.js"
+  ]
+}
